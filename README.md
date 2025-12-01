@@ -1,2 +1,2 @@
-#PLCs Relay Ladder Logic projects
-Various small projects completed on Allen Bradely CompactLogix series PLCs with RLL on Studio5000
+# PLCs Relay Ladder Logic Projects
+Various small projects completed on Allen Bradely CompactLogix series PLCs with RLL in Studio5000
